@@ -47,6 +47,10 @@ PROFILE:NZHN_APP:150:5
 ATIS2:Bay Approach
 ATIS3:Charts- www.vatnz.net/airspace/airports/
 ATIS4:ATIS 128.65
+PROFILE:NZOH_APP:150:5
+ATIS2:Ohakea Approach
+ATIS3:Charts- www.vatnz.net/airspace/airports/
+ATIS4:ATIS 135.00
 PROFILE:NZWN_APP:150:5
 ATIS2:Wellington Approach
 ATIS3:Charts- www.vatnz.net/airspace/airports/
