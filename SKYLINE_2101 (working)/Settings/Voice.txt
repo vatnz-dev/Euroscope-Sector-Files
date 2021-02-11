@@ -34,6 +34,7 @@ AG:Gisborne TWR:127.300:rw1.vatpac.org:nzgs_twr
 AG:Napier TWR:124.800:rw1.vatpac.org:nznr_twr
 AG:New Plymouth TWR:124.700:rw1.vatpac.org:nznp_twr
 AG:Ohakea TWR:134.500:rw1.vatpac.org:nzoh_twr
+AG:Ohakea Approach:125.100:rw1.vatpac.org:nzoh_app
 AG:Palmerston North TWR:120.600:rw1.vatpac.org:nzpm_twr
 AG:Wellington TWR:118.800:rw1.vatpac.org:nzwn_twr
 AG:Woodbourne TWR:118.100:rw1.vatpac.org:nzwb_twr
