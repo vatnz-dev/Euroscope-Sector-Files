@@ -18,12 +18,12 @@ AG:Queenstown Approach:125.750:rw1.vatpac.org:nzqn_app
 AG:Auckland CLR DEL:128.200:rw1.vatpac.org:nzaa_del
 AG:Wellington CLR DEL:128.200:rw1.vatpac.org:nzwn_del
 AG:Christchurch CLR DEL:128.200:rw1.vatpac.org:nzch_del
-AG:Queenstown CLR DEL:128.300:rw1.vatpac.org:nzqn_del
+AG:Queenstown CLR DEL:121.900:rw1.vatpac.org:nzqn_del
 AG:Dunedin CLR DEL:128.400:rw1.vatpac.org:nzdn_del
 AG:Auckland SMC:121.900:rw1.vatpac.org:nzaa_gnd
 AG:Wellington SMC:121.900:rw1.vatpac.org:nzwn_gnd
 AG:Christchurch SMC:121.900:rw1.vatpac.org:nzch_gnd
-AG:Queenstown SMC:121.900:rw1.vatpac.org:nzqn_gnd
+AG:Queenstown SMC:128.300:rw1.vatpac.org:nzqn_gnd
 AG:Dunedin SMC:128.500:rw1.vatpac.org:nzdn_gnd
 AG:Whenuapai TWR:134.500:rw1.vatpac.org:nzwp_twr
 AG:Auckland TWR:118.700:rw1.vatpac.org:nzaa_twr
