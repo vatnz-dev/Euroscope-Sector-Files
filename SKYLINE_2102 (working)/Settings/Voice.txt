@@ -44,7 +44,7 @@ AG:Milford AFIS:118.200:rw1.vatpac.org:nzmf_twr
 AG:Queenstown TWR:118.100:rw1.vatpac.org:nzqn_twr
 AG:Dunedin TWR:120.700:rw1.vatpac.org:nzdn_twr
 AG:Invercargill TWR:118.500:rw1.vatpac.org:nznv_twr
-AG:Whenuapai ATIS:135.000:rw1.vatpac.org:nzwp_atis
+AG:Whenuapai ATIS:128.300:rw1.vatpac.org:nzwp_atis
 AG:Auckland ATIS:127.800:rw1.vatpac.org:nzaa_atis
 AG:Hamilton ATIS:128.650:rw1.vatpac.org:nzhn_atis
 AG:Tauranga ATIS:126.600:rw1.vatpac.org:nztg_atis
